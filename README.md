@@ -1,6 +1,6 @@
 <div align="center">
   <h1>☕</h1>
-  <p>Sou um entusiasta de programação. Estou aprendendo Python no momento, mas planejo ver outras linguagem, como: HTML, CSS, JavaScript/TypeScript e C a princípio.</p>
+  <p>Sou um entusiasta de programação. Estou aprendendo Python no momento, mas planejo ver outras linguagens, como: HTML, CSS, JavaScript/TypeScript e C a princípio.</p>
 </div>
 
 <div align="center">
