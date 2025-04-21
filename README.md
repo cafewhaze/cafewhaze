@@ -22,5 +22,5 @@
 <h1></h1>
 
 <div align="center">
-  <img src="https://github.com/cafewhaze/cafewhaze/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github.com/cafewhaze/cafewhaze/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
