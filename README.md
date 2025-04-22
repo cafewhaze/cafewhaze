@@ -1,6 +1,6 @@
 <div align="center">
   <h1>☕🌫️</h1>
-  <p>Sou um entusiasta de programação. Estou aprendendo Python no momento, mas planejo ver outras linguagens, como: HTML, CSS, JavaScript/TypeScript e C a princípio.</p>
+  <p>Sou um entusiasta de programação. Estou aprendendo Python no momento, mas planejo ver outras linguagens, como: HTML, CSS, JavaScript/TypeScript e C a princípio. <a href="README_en.md" title="Versão em inglês"><a href="README_en.md" title="Versão em inglês">🇬🇧 EN</a></p>
 </div>
 
 <div align="center">
