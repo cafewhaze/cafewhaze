@@ -1,6 +1,6 @@
 <div align="center">
   <h1>☕🌫️</h1>
-  <p>I am a programming enthusiast. I am currently learning Python, but I plan to explore other languages, such as: HTML, CSS, JavaScript/TypeScript, and C to start with. <a href="README.md" title="Versão em português">🇧🇷 PT-BR</a>
+  <p>I am a programming enthusiast. I am currently learning Python, but I plan to explore other languages, such as: HTML, CSS, JavaScript/TypeScript, and C to start with. <a href="https://github.com/cafewhaze" title="Versão em português">🇧🇷 PT-BR</a>
 </div>
 
 <div align="center">
