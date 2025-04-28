@@ -1,6 +1,6 @@
 <div align="center">
   <h1>☕🌫️</h1>
-  <p>I am a programming enthusiast. I am currently learning Python, but I plan to explore other languages, such as: HTML, CSS, JavaScript/TypeScript, and C mainly. <a href="https://github.com/cafewhaze" title="Versão em português">🇧🇷 PT-BR</a>
+  <p>I am a programming enthusiast. I am currently learning HTML/CSS, but I plan to explore other languages, such as: JavaScript/TypeScript and C mainly. <a href="https://github.com/cafewhaze" title="Versão em português">🇧🇷 PT-BR</a>
 </div>
 
 <div align="center">
@@ -9,6 +9,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="ArchLinux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
 </div>
