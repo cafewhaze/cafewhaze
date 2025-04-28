@@ -1,6 +1,6 @@
 <div align="center">
   <h1>☕🌫️</h1>
-  <p>Sou um entusiasta de programação. Estou aprendendo Python no momento, mas planejo ver outras linguagens, como: HTML, CSS, JavaScript/TypeScript e C a princípio. <a href="README_en.md" title="Versão em inglês"><a href="README_en.md" title="Versão em inglês">🇬🇧 EN</a></p>
+  <p>Sou um entusiasta de programação. Estou aprendendo HTML e CSS no momento, mas planejo ver outras linguagens, como: JavaScript/TypeScript e C a princípio. <a href="README_en.md" title="Versão em inglês"><a href="README_en.md" title="Versão em inglês">🇬🇧 EN</a></p>
 </div>
 
 <div align="center">
@@ -9,6 +9,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="right" alt="ArchLinux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
 </div>
