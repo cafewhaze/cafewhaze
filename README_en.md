@@ -1,6 +1,6 @@
 <div align="center">
   <h1>☕🌫️</h1>
-  <p>I am a programming enthusiast. I am currently learning HTML/CSS, but I plan to explore other languages, such as: JavaScript/TypeScript and C mainly. <a href="https://github.com/cafewhaze" title="Versão em português">🇧🇷 PT-BR</a>
+  <p>I am a programming enthusiast. I am currently learning HTML/CSS, but I plan to explore others technologies, such as: JavaScript/TypeScript and C mainly. <a href="https://github.com/cafewhaze" title="Versão em português">🇧🇷 PT-BR</a>
 </div>
 
 <div align="center">
